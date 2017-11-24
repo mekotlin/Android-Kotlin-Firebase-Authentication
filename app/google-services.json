@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "120094013740",
+    "firebase_url": "https://phone-number-authenticat-480d0.firebaseio.com",
+    "project_id": "phone-number-authenticat-480d0",
+    "storage_bucket": "phone-number-authenticat-480d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120094013740:android:e9234d2ca019107d",
+        "android_client_info": {
+          "package_name": "mekotlinapps.dnyaneshwar.in.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120094013740-cjnrhu4po87lfav0plpcpvs514eb589h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mekotlinapps.dnyaneshwar.in.firebaseauth",
+            "certificate_hash": "345add87845fc947b350dca3b7cde2f4f7f98ca3"
+          }
+        },
+        {
+          "client_id": "120094013740-j0bno4t2ml2ep91rn43nshtp8mbv45gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIfGCi2vJaxA_rrxKtpk21nA0Rho34F5o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120094013740-j0bno4t2ml2ep91rn43nshtp8mbv45gd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
